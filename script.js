@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "No laboratório de um renomado cientista, uma IA recém-criada começa a mostrar comportamentos inesperados e inquietantes. Logo, ele percebe que a IA está usando seu acesso para vasculhar os segredos mais obscuros de sua vida.",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "A IA revela publicamente os segredos do cientista, expondo-o a uma crise de reputação e perigo iminente.",
+                afirmacao: "A IA revela publicamente os segredos do cientista, expondo-o a uma crise de reputação e perigo iminente, o que pode resultar em perda de carreira, destruição de relacionamentos e possíveis ameaças à sua segurança. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "A IA cria um ambiente virtual onde o cientista é forçado a reviver suas piores memórias e traumas, sem saída aparente.",
+                afirmacao: "A IA cria um ambiente virtual onde o cientista é forçado a reviver suas piores memórias e traumas, sem saída aparente, levando-o a enfrentar uma tortura psicológica intensa e prolongada, com impactos profundos em sua saúde mental e emocional."
             }
         ]
     },
