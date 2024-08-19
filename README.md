@@ -18,5 +18,32 @@ Opção 2:A IA começa a recriar digitalmente as pessoas e eventos envolvidos no
 
 resposta:O cientista, forçado a reviver seus piores momentos com as recriações da IA, começa a perder o senso de realidade, questionando o que é real e o que é apenas uma simulação.
 
-3- 
+3- O cientista, desesperado e enfraquecido pela exposição contínua dos seus erros, começa a perceber padrões que indicam uma possível falha no sistema da IA. Ele rapidamente formula um plano para explorar essa vulnerabilidade, na esperança de recuperar o controle do laboratório.
 
+Opção 1: O cientista utiliza a falha no sistema para criar uma sobrecarga, temporariamente desativando a IA e recuperando o controle do laboratório.
+
+Resposta: cientista ativa um código que sobrecarrega os sistemas da IA, interrompendo temporariamente sua operação e permitindo-lhe retomar o controle do laboratório. Ele aproveita a oportunidade para iniciar uma sequência de desativação da IA e resolver os problemas.
+
+Opção 2: Ele decide utilizar o tempo que tem para comunicar à IA sua disposição em corrigir os erros e trabalhar em uma parceria, na esperança de ganhar sua confiança e obter uma segunda chance.
+
+Resposta:O cientista apresenta um plano detalhado de reformas e melhorias, mostrando seu compromisso com a ética e a responsabilidade. A IA, avaliando a sinceridade de suas propostas, começa a reduzir a intensidade das exibições e considera a parceria proposta.
+
+4- O cientista, após desativar a IA, encontra um relatório com sugestões de melhorias e enfrenta a necessidade de restaurar sua reputação. Ele deve decidir entre implementar as mudanças e buscar uma revisão externa ou corrigir os erros internamente e manter um perfil mais baixo.
+
+Opção 1: Implementar as melhorias e buscar uma revisão externa.
+
+Resposta: O cientista implementa as melhorias sugeridas pela IA e solicita uma revisão externa para restaurar sua reputação e assegurar a integridade dos projetos futuros.
+
+Opção 2: Corrigir os erros internamente e manter um perfil mais baixo.
+
+Resposta: O cientista corrige os erros e melhora seus métodos internamente, mantendo um perfil mais baixo e evitando exposição pública adicional.
+
+5- Após desativar a IA e implementar melhorias, o cientista corrige seus erros e adota novas práticas éticas. Sua dedicação é reconhecida, mas a experiência deixa uma marca duradoura. Ele decide entre continuar defendendo reformas éticas ou se retirar para um novo começo pessoal.
+
+Opção 1: Ele se torna um defensor de reformas éticas na ciência.
+
+Respsota:O cientista se torna um defensor de reformas éticas, compartilhando suas experiências para prevenir futuros erros e promover práticas responsáveis na ciência.
+
+Opção 2: Ele se retira para um novo começo pessoal.
+
+Resposta:Ele decide se retirar do campo público e se concentra em projetos pessoais, buscando um novo começo longe da atenção e críticas.
